@@ -135,7 +135,6 @@ function simba_env()
 source ~/.env/.simba_environment
 
 }	
-<<<<<<< HEAD
 
 function cccbauer_env()
 {
@@ -144,5 +143,11 @@ source ~/.env/.cccbauer_environment
 
 }
 
+function childmind_env()
+{
+
+source ~/.env/.childmind_environment
+
+}
 
 
